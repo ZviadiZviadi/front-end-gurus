@@ -1,2 +1,2 @@
 # front-end-gurus
-educational project
+educational project 323232
